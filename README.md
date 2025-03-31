@@ -1,2 +1,2 @@
 # binshub
-UP  !
+UP!
